@@ -1,6 +1,6 @@
 {
   "name": "gas-price-fetcher",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple application to fetch the current gas price",
   "main": "index.js",
   "scripts": {
